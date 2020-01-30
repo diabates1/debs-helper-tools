@@ -1,0 +1,16 @@
+{
+  "projects" : [
+    { "name"      : "010_TD_IT"                                               },
+    { "name"      : "Front panel"                                             },
+    { "name"      : "GTW"                                                     },
+    { "name"      : "STB"                                                     },
+    { "name"      : "BPL"                                                     },
+    { "name"      : "Software Components"                                     },
+    { "name"      : "Tools & Environment"                                     },
+    { "name"      : "WLAN generic"                                            },
+    { "name"      : "Network"                                                 },
+    { "name"      : "20_TD_2019_FP_FrontPanel_201710"                         },
+    { "name"      : "20_Vodia_2003_DSL_Fiber_Access_201605"                   },
+    { "name"      : "20_Vialis_2005_STB_HEVC_HD_Settopbox_201606"             }
+  ]
+}

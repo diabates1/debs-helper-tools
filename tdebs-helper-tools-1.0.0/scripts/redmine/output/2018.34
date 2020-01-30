@@ -1,0 +1,98 @@
+id     : statuts         : owner                          : project                                                      : subject
+[2727] : New             : Dominique Guérin               : 20_Tonly_Digital_2008_TDEBS_Environment_&_Build_System_201612 : [EBS, Healper tools] Add EBS helpers scripts which cannot be in EBS
+[2726] : New             : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Patcher] Write a patcher script for hotfixes on RCx.
+[2725] : New             : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [NTP, DB] Set default local time zone in DB to Europe/Paris
+[2724] : New             : Sidy Diabate                   : 10_Timesheets                                                : [2018 34][SD] Timesheet fill reminder!
+[2723] : New             : Xavier Hanin                   : 10_Timesheets                                                : [2018 34][XH] Timesheet fill reminder! 
+[2722] : New             : Vivian Aubry                   : 10_Timesheets                                                : [2018 34][VA] Timesheet fill reminder!
+[2721] : New             : Robin Girard                   : 10_Timesheets                                                : [2018 34][RG] Timesheet fill reminder!
+[2720] : New             : Dominique Guérin               : 10_Timesheets                                                : [2018 34][DG] Timesheet fill reminder!
+[2719] : New             : Christophe Martin              : 10_Timesheets                                                : [2018 34][CM] Timesheet fill reminder!
+[2718] : Resolved        : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [LIB_OS, Sleep] Fix of td_lib_os_sleep  routine in td_lib_os library
+[2717] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] Reproduce and investiguate FP issue
+[2716] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] Use drv_module instead of semaphores
+[2715] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] Launch FP SW through procd 
+[2714] : Feedback        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [APPFS] Check file System usage by Vodia
+[2713] : Feedback        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [APPFS] Should we produce with Provisioning Manager?
+[2712] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Security] How do we reactivated telnet etc. if needed?
+[2711] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [APPFS] How do we flash APPFS Applications in factory?
+[2710] : New             : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SIP] Check that SIP default account settings are adequate with Vodia needs
+[2709] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Support Vodia on release RCv1.5.0 
+[2708] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Prepare release RCv1.5.0 
+[2707] : New             : TD_technical_team_HW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Release RCv1.5.0
+[2706] : Resolved        : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [NTP] Vodia reported that NTP data change after a while
+[2705] : Resolved        : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Network] Port forwarding does not seem to work.
+[2704] : Resolved        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [WAN] Vodia still don't succeed to access to port 80 through WAN
+[2703] : New             : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FXS DECT] SIP stack account choices are not satisfying for Vodia when no FXS connected
+[2702] : Resolved        : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [DHCP] Vodia still has problems with option 66.
+[2701] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] FP stills hangs buf after several days now
+[2700] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Support Vodia on release RCv1.4.0 
+[2699] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Prepare release RCv1.4.0 
+[2698] : In Progress     : TD_technical_team_HW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Release RCv1.4.0
+[2697] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Support Vodia on release RCv1.3.0 
+[2696] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Prepare release RCv1.3.0 
+[2695] : New             : TD_technical_team_HW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Release RCv1.3.0
+[2694] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Releases to Vodia Story
+[2693] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FAN Manager] FAN Manager overloads CPUs after several hours of running
+[2692] : Closed          : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Scripting, Trace] Add trace library for unified trace output.
+[2691] : New             : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : WPS_ER
+[2690] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : zebra & ripd (quagga)
+[2689] : New             : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : cwmp
+[2688] : New             : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : conf
+[2687] : Verified        : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : ssh
+[2686] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed : ftp & telnet
+[2685] : In Progress     : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FAN] FAN Management software improvements
+[2684] : Resolved        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Vodia, WAN] Port forwarding
+[2683] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Vodia, WAN] Port 80 on WAN
+[2682] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Support, Vodia] W33 Vodia support on release RCv1.4
+[2675] : Resolved        : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP]  Bash script  reading time from ntp servers
+[2674] : Verified        : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP]  Identification of a list of trusted ntp servers
+[2673] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Validation test of the new Vodia intermediate software  (RCv1.4.0)
+[2666] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Release a new intermediate software to Vodia - RCv1.4.0
+[2665] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Fan, UGW]  Launch FAN Manager automatically at boot time in UGW envt
+[2664] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Fan, Ctrl]  TDGI500 Wlan  up state  control for temperature read
+[2663] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Vodia, EBS] Split Vodia project on EBS into "Prod" and "Dev" version
+[2662] : Closed          : Dominique Guérin               : 20_Tonly_Digital_2008_TDEBS_Environment_&_Build_System_201612 : [EBS, Project diff] Support differences in package list when doing a diff
+[2661] : Closed          : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Nand] Add partition to receive signatures.
+[2654] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] Front Panel button states events are not immediate
+[2653] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Release, Vodia] Release a new intermediate software to Vodia - RCv1.3.0
+[2652] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [APPFS, VODIA] Test & send back Vodia APPFS SW 60.3 with TD modifications to scripts.
+[2651] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [TDC] Debug version of memory lib embedded in TDGI500 application project - remove it
+[2650] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Vodia, Release] Add IoT Telecom Provisioning Manager SW in APPFS container on NAS & Gitlab
+[2649] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC] Telnet/SSH access accounts & password
+[2648] : New             : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [BTC, Factory Reset] Appfs RIP partition handling
+[2647] : Closed          : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [BTC, Factory Reset] Environment variable to not be 0xff
+[2644] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [UGW, Integration] Complete UGW 7.4.0.10 integration
+[2635] : In Progress     : Dominique Guérin               : 20_TD_2015_FTTx_Micronode_TDFMCxx_201703                     : [Microchip, TDC] Integrate TDC into Microchip MPLAB.
+[2634] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [WAN, Autowan] Autowan should also handle `Default Gateway` while switching interfaces.
+[2621] : Closed          : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [UI] Backup open web page for backup download without using port configuration.
+[2617] : Closed          : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [UGW 7.3, Patches] Latest patches from intel set Voip line (SIP account) to 1 only (was 3 before patch)
+[2599] : In Progress     : Dominique Guérin               : 20_TD_2015_FTTx_Micronode_TDFMCxx_201703                     : [MSCC, Network] Create virtual network interface with unique MAC from MOCA CNU peer.
+[2592] : Closed          : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [PROD, DSL] Echo tool - DSL debug configuration for production
+[2575] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FAN] Develop generic FAN Manager component
+[2570] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [APPFS, EBS] Add APPFS tarball preparation to be included in builds.
+[2569] : In Progress     : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP] TD's First Use Date to be written by SW
+[2556] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Fan, Ctrl] Implement Fan algorithm 
+[2545] : Closed          : Dominique Guérin               : 20_Tonly_Digital_2008_TDEBS_Environment_&_Build_System_201612 : [EBS, Tooling] Add helper to manage difference between project
+[2534] : Closed          : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP] Front Panel logo carousel hangs after several hours of running
+[2533] : Feedback        : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Config DB, Country] Does the Vodia licence allow to identify country
+[2480] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Demo Vodia, Intel/China Telecom] Prepare appfs script to handle vodia pbx/cgi  
+[2460] : Closed          : Sidy Diabate                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [Fan, Ctrl] Implement Fan algorithm based on algorithm design
+[2443] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [PROD]
+[2402] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC] CGI access account
+[2392] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP] Manufacturer web site
+[2391] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP] MACS
+[2389] : Feedback        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER RIP] Vodia's First use date
+[2387] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC UPG] Signature tool
+[2386] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC WAN] WAN ports closed
+[2383] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC SIGN] Signature of all bootable elements
+[2381] : In Progress     : Robin Girard                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC LAN] LAN ports closed
+[2380] : Feedback        : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC CSL] Disable console (IPS 00267798)
+[2378] : New             : Olivier Papy                   : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [FP UPG] Upgradable Splash Screen
+[2364] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [WIFI] Default Wifi password
+[2363] : Feedback        : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [WIFI] Initial WIFI SSID
+[2357] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SER]
+[2356] : New             : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [SEC]
+[2349] : In Progress     : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [TRS] SW Phase 1
+[2275] : Closed          : TD_technical_team_SW           : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [PROD][DSL] Update default configuration to enable echo tool 
+[1163] : Closed          : Dominique Guérin               : 20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702        : [WAN, SFP] AutoWAN configuration

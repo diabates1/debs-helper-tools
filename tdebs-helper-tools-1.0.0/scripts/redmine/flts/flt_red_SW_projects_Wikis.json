@@ -1,0 +1,24 @@
+{
+  "projects" : [
+    { "name"      : "010_TD_IT"                                               },
+    { "name"      : "090_external"                                            },
+    { "name"      : "Front panel"                                             },
+    { "name"      : "GTW"                                                     },
+    { "name"      : "20_TD_2020_FTTH_Brcm_OGW_Optical_GateWay_201801"         },
+    { "name"      : "20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702"   },
+    { "name"      : "STB"                                                     },
+    { "name"      : "Software Components"                                     },
+    { "name"      : "Tools & Environment"                                     },
+    { "name"      : "20_Tonly_Digital_2008_TDEBS_Environment_&_Build_System_201612" },
+    { "name"      : "WLAN generic"                                            },
+    { "name"      : "Network"                                                 },
+    { "name"      : "20_TD_2015_FTTx_Micronode_TDFMCxx_201703"                },
+    { "name"      : "20_Teamly_Digital_2022_Service_NMS_201902"               },
+    { "name"      : "20_TD_2019_FP_FrontPanel_201710"                         },
+    { "name"      : "20_Vodia_2003_DSL_Fiber_Access_201605"                   },
+    { "name"      : "20_Vialis_2005_STB_HEVC_HD_Settopbox_201606"             }
+  ],
+  "projects_test" : [
+    { "name"      : "20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702"   }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "projects" : [
+    { "name"      : "010_TD_IT"                                               },
+    { "name"      : "20_TD_2019_FP_FrontPanel_201710"                         },
+    { "name"      : "20_TD_2020_FTTH_Brcm_OGW_Optical_GateWay_201801"         },
+    { "name"      : "20_Tonly_Digital_2013_GTW_Intel_GRXxxx_Generic_201702"   },
+    { "name"      : "20_TD_2015_FTTx_Micronode_TDFMCxx_201703"                },
+    { "name"      : "20_Teamly_Digital_2022_Service_NMS_201902"               },
+    { "name"      : "20_Tonly_Digital_2013_STB_Frog_UI_Generic_201702"        },
+    { "name"      : "20_Tonly_Digital_2008_TDEBS_Environment_&_Build_System_201612"},
+    { "name"      : "ATS (Automated Test Suite)"                              },
+    { "name"      : "DPS (Data Processing Suite)"                             },
+    { "name"      : "Quantenna"                                               },
+    { "name"      : "R20_Bouygues_Energies_Services_2017_BPL_Citybox_v3_201707"},
+    { "name"      : "UPA"                                                     },
+    { "name"      : "20_Orange_Belgium_2004_STB_HEVC_HD_Settopbox_201606"     },
+    { "name"      : "20_Vialis_2005_STB_HEVC_HD_Settopbox_201606"             },
+    { "name"      : "20_Vodia_2003_DSL_Fiber_Access_201605"                   }
+  ]
+}
